@@ -1,16 +1,8 @@
-# secur_chat
+# Chat YaA
 
-A new Flutter project.
+Secure chat application via multiple encryption methods 😏😏
+The complete confidentiality and integrity of data transmitted between users is ensured by the use of encryption algorithms such as symmetric encryption, asymmetric encryption, and digital signature.😎😎
+You can message anyone using their phone number🤗
+The system is a mobile application built using Flutter GetX and PHP Laravel 😎😎😃
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
